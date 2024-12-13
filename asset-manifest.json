@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/courserareactcalc/static/css/main.3d201d12.css",
+    "main.js": "/courserareactcalc/static/js/main.0154578e.js",
+    "static/js/453.862886f2.chunk.js": "/courserareactcalc/static/js/453.862886f2.chunk.js",
+    "index.html": "/courserareactcalc/index.html",
+    "main.3d201d12.css.map": "/courserareactcalc/static/css/main.3d201d12.css.map",
+    "main.0154578e.js.map": "/courserareactcalc/static/js/main.0154578e.js.map",
+    "453.862886f2.chunk.js.map": "/courserareactcalc/static/js/453.862886f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d201d12.css",
+    "static/js/main.0154578e.js"
+  ]
+}
