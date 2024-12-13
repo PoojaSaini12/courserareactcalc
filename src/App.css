@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.container{
+width: 800px;
+margin: auto;
+text-align: left;
+}
+
+.btn{
+  border-radius:4px;
+}
+
+
+.btn.orange{
+  background: orangered;
+  color:#fff;
+
+}
+
+
+* { 
+  font-family: sans-serif; 
+} 
+input, 
+button { 
+  font-size: 20px; 
+  padding: 10px; 
+  border-radius: 5px; 
+} 
+input { 
+  display: block; 
+  margin-bottom: 20px; 
+} 
+button { 
+  border: 1px solid gray; 
+  background: whitesmoke; 
+  margin-right: 5px; 
+} 
+button:nth-last-child(2), 
+button:nth-last-child(1) { 
+  background: tomato; 
+  color: white; 
+} 
